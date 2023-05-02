@@ -1,4 +1,4 @@
-package main
+package walker
 
 type Walker struct {
 	data []any
