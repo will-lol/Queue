@@ -1,3 +1,3 @@
-module github.com/will-lol/Queue
+module github.com/will-lol/Walker
 
 go 1.20
